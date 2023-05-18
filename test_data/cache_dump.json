@@ -1,0 +1,58 @@
+{
+  "0": {
+    "Value": {
+      "Field1": "a",
+      "Field2": 1,
+      "Field3": true,
+      "Field4": {
+        "a": "a",
+        "b": "b"
+      },
+      "Field5": [
+        "a",
+        "b",
+        "c"
+      ],
+      "Field6": {
+        "1": {
+          "Field61": "a",
+          "Field62": 1,
+          "Field63": true
+        },
+        "2": {
+          "Field61": "b",
+          "Field62": 2,
+          "Field63": false
+        }
+      }
+    }
+  },
+  "1": {
+    "Value": {
+      "Field1": "a",
+      "Field2": 1,
+      "Field3": true,
+      "Field4": {
+        "a": "a",
+        "b": "b"
+      },
+      "Field5": [
+        "a",
+        "b",
+        "c"
+      ],
+      "Field6": {
+        "1": {
+          "Field61": "a",
+          "Field62": 1,
+          "Field63": true
+        },
+        "2": {
+          "Field61": "b",
+          "Field62": 2,
+          "Field63": false
+        }
+      }
+    }
+  }
+}

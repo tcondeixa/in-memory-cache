@@ -1,0 +1,42 @@
+"0":
+    value:
+        field1: a
+        field2: 1
+        field3: true
+        field4:
+            a: a
+            b: b
+        field5:
+            - a
+            - b
+            - c
+        field6:
+            "1":
+                field61: a
+                field62: 1
+                field63: true
+            "2":
+                field61: b
+                field62: 2
+                field63: false
+"1":
+    value:
+        field1: a
+        field2: 1
+        field3: true
+        field4:
+            a: a
+            b: b
+        field5:
+            - a
+            - b
+            - c
+        field6:
+            "1":
+                field61: a
+                field62: 1
+                field63: true
+            "2":
+                field61: b
+                field62: 2
+                field63: false
